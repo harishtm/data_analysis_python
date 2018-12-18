@@ -1,0 +1,4 @@
+,productid,productname,description,quantityavailable,currency,cost,category
+6,101,Water Heaters,Water heaters for home. 50L capacity. 50W Power,10,$,120.0,HomeElectricals
+7,102,Prism,Multi color lights,5,$,25.0,Lights
+8,103,Tracker,GPS tracker for vehicles,8,USD,250.0,Logistics
